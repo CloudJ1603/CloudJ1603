@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 - 🎓 I am a graduate student specialized in Computer Engineering at UBC
 - 🌱 I’m currently learning Typescript, Javascript, Java, ReactJS ...
-- ⚡ I like hiking and all kinds of ball games. 
-- 📫 How to reach me: lujiaca16@gmail.com
+- ⚡ I like hiking, all kinds of ball games and outdoor activities
+- 📫 Email: lujiaca16@gmail.com
+- 💼 Linkedin: www.linkedin.com/in/jia-lu-371505204
 
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudJ1603&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
