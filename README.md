@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 📫 Email: lujiaca16@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/jia-lu-371505204
 - 🎞️ Portfolio: https://cloudj1603.github.io/
+- 💬 Online CV (not finished): https://cloudj1603.github.io/CV/
 
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=CloudJ1603&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
