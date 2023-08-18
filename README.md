@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I am a graduate student specialized in Computer Engineering at UBC
-- 🌱 I’m currently learning Typescript, Javascript, Java, ReactJS ...
+- 🌱 I’m currently focusing on learning C++ 
 - ⚡ I like hiking, all kinds of ball games and outdoor activities
 - 📫 Email: lujiaca16@gmail.com
 - 💼 Linkedin: www.linkedin.com/in/jia-lu-371505204
